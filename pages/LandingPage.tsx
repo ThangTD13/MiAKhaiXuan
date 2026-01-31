@@ -17,7 +17,7 @@ import Anh4 from "../assets/image/Anh4.png";
 import DoanTrang from "../assets/image/DoanTrang.png";
 import KhanhHa from "../assets/image/KhanhHa.png";
 import LeHien from "../assets/image/LeHien.png";
-import MinhAnh from "../assets/image/Minhanh.png";
+import MinhAnh from "../assets/image/MinhAnh.png";
 import NhuQuang from "../assets/image/NhuQuang.png";
 import NhanQuy from "../assets/image/NhanQuy.png";
 import ThangTD from "../assets/image/ThangTD.png";
